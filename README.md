@@ -22,3 +22,8 @@ As part of the proposed solutions, it is suggested to replace empty values with 
 After verifying the correctness of the data, proceed to calculate correlation coefficients between columns to remove columns whose presence in training will not translate into tangible benefits compared to the rest of the data [using the .corr function].
 The final proposed step of data preparation is normalization and discretization of selected columns (where negative values appear or exceed the value of 1) [using the .min, .max, and .count functions].
 Finally, it is advisable to check the correctness of the performed operations by plotting chart(s) or manually reading the data.
+
+
+![pobrany plik (1)](https://github.com/DARTHxMICHAEL/PythonDataPreprocessing/assets/30693125/d050c90f-1a63-441c-af3c-9fa445615e5d)
+
+![pobrany plik](https://github.com/DARTHxMICHAEL/PythonDataPreprocessing/assets/30693125/f049aa08-8759-43af-b550-47d2548d8d34)
